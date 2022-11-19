@@ -1,4 +1,3 @@
--  head Im Daishika Madushan
 - 👋 Hi, I’m Daishika Madushan
 - 👀 I’m Software Devoloper
 - 🌱 I’m currently learning Web devoloping
