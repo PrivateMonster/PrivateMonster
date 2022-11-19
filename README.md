@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DaishikaMadushan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daishika Madushan
+- 👀 I’m Software Devoloper
+- 🌱 I’m currently learning Web devoloping
+- 💞️ I’m looking to collaborate with you
+- 
 
 <!---
 DaishikaMadushan/DaishikaMadushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
